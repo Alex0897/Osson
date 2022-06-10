@@ -1,0 +1,40 @@
+body{
+    background: url(/bg2.jpg);
+    background-size: cover;
+}
+
+img{
+    background-size: cover;
+    border-radius: 50%;
+    width: 250px;
+    margin-left: 40%;
+}
+
+.isim{
+    text-align: center;
+    color: #d34d2b;
+}
+
+.haqida{
+    text-align: center;
+    color: white;
+}
+
+.lorem{
+    text-align: center;
+    color:white;
+    padding:10px;
+    background-color: #d34d2b;
+    border-radius: 20px;
+    width: 800px;
+    margin: auto;
+}
+
+.kino{
+    text-align: center;
+    color: #d34d2b;
+}
+
+.video{
+    margin-left: 30%;
+}
